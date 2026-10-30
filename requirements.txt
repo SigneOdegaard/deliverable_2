@@ -1,0 +1,12 @@
+# Info about our virtual environment: 
+
+# Python version 3.14.7
+# Project virtual environment: .venv
+
+# Which Python packages an versions we used:
+jupyter 
+ipykernel
+pandas
+numpy
+json
+pathlib
